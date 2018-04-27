@@ -1,3 +1,11 @@
+#! /usr/bin/env python3
+
+"""
+Development Version: Python 3.5.1
+Author: Aaron Coyner
+Description: Perceptron Learning Algorithm
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import datagen

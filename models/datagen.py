@@ -1,3 +1,11 @@
+#! /usr/bin/env python3
+
+"""
+Development Version: Python 3.5.1
+Author: Aaron Coyner
+Description: Random Data Generator
+"""
+
 import numpy as np
 
 
