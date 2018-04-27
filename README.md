@@ -1,13 +1,13 @@
 # Machine Learning
 Personal code library for machine learning methods implemented in Python.
 
-## Current Supervised
+## Supervised Methods
 * Perceptron
 
-## Current Unsupervised
+## Unsupervised Methods
 
 
-## To Do Supervised
+## To-do Supervised
 * Neural Network
 * Gaussian Naive Bayes
 * Logistic Regression
@@ -15,7 +15,7 @@ Personal code library for machine learning methods implemented in Python.
 * Random Forest
 * Empirical Bayes (with Discretization, Smoothing, etc.)
 
-## To Do Unsupervised
+## To-do Unsupervised
 * K-Means
 * K-Mode
 * K-Median
